@@ -1,3 +1,6 @@
 This is the Template for the task.
 hello world!!
+new text
+more text
 master writes text at same place
+
