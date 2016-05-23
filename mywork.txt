@@ -1,8 +1,6 @@
 This is the Template for the task.
 hello world!!
-<<<<<<< HEAD
 new text
 more text
-=======
 master writes text at same place
->>>>>>> refs/remotes/origin/master
+
